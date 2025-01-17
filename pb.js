@@ -16,4 +16,6 @@ baby = {
   "paid" : 1,
 };
 
+console.log(baby)
+
 $done({ body: JSON.stringify(baby) });

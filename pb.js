@@ -13,6 +13,8 @@ baby = {
   "end_time" : "4092599349",
   "start_time" : "1737028718",
   "paid" : 1,
+  "user_status" : 1,
+  "completevip" : 1
 };
 
 console.log(baby)

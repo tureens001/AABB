@@ -1,6 +1,6 @@
 /******************************
 [rewrite_local]
-http-response ^https:\/\/user\.bbwhk\.net\/user\/login script-path=https://raw.githubusercontent.com/tureens001/AABB/refs/heads/main/pb.js, requires-body=true, timeout=10, tag=Bloomberg
+http-response ^https:\/\/user\.bbwhk\.net\/user\/login script-path=https://raw.githubusercontent.com/tureens001/AABB/refs/heads/main/pb.js, requires-body=true, timeout=10, tag=彭博中文
 [mitm] 
 hostname = user.bbwhk.net
 *******************************/

@@ -10,7 +10,6 @@ baby = {
   ...baby,
   "level" : 80,
   "vip" : "進階會員",
-  "completevip" : 1,
   "end_time" : "4092599349",
   "start_time" : "1737028718",
   "paid" : 1,
